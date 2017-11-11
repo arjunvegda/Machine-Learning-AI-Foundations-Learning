@@ -21,4 +21,3 @@ value = estimate_home_value(3800, 5)
 print("Estimated valued:")
 print(value)
 
-
